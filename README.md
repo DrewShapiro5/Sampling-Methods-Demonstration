@@ -26,3 +26,7 @@ A red marker at the bottom of the plot represents the mean value.
 **Show data:** Shows the true crop yield for each plot.
 **Show grid labels:** Shows the labels at the top and left side of the grid (e.g. A, B, C, ... and 1, 2, 3, ...)
 **Resetting the sample space:** The user can specify dimensions for the new grid and reset the sample space with new random values.
+
+# Running the program
+* Extract **Sampling Methods Demonstration.jar.zip** and run **Sampling Methods Demonstration.jar** (easiest option)
+* Clone the repository into a java IDE and run the program.
